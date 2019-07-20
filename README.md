@@ -1,1 +1,1 @@
-# LocationSearch
+# Angular PRoject
